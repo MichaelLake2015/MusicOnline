@@ -31,7 +31,7 @@ namespace B
     {
         public void In()
         {
-            Console.WriteLine("namespace B");
+            Console.WriteLine("Hello World");
         }
     }
 }
